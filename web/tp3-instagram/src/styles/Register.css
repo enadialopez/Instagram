@@ -1,0 +1,48 @@
+
+*{
+    background-color: #eee;
+}
+
+form,.button, #login, h6, #register {
+    background: white;
+}
+
+
+.form-control {
+    background-color: #eee;
+}
+
+h6 {
+    margin-top: 7%;
+}
+
+#columnaDerecha{
+    margin-top: 7% ;
+    margin-right: 6%;
+    background: white;
+    padding: 5%;
+    
+}
+
+h2{
+    background: white;
+    color: grey;
+    font-size: 110%;
+    margin-bottom: 10%;
+}
+
+
+.button {
+    width: 100%;
+}
+
+#fotoInstagram {
+    margin-top: 14%;
+    margin-left: 56%;
+    
+}
+
+.fontIgRegister {
+    width: 90%;
+
+}

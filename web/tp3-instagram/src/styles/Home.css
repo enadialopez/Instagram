@@ -1,0 +1,38 @@
+.userName  {
+    display: inline-block;
+}
+
+.imagenUserName { 
+    display: inline-block;
+   
+}
+
+.imagePost, .nameUserPost{
+    display: inline-block;
+    margin-bottom: 2%;
+    
+}
+
+
+.nameUserPost {
+    border-radius: 1% solid;
+}
+
+.followers {
+    margin-left: 40px;
+    margin-top: 7%;
+}
+
+.post {
+    margin-bottom: 3%;
+    border: 1px solid rgb(209, 208, 208)
+}
+
+hr {
+    background-color: grey ;  
+}
+
+.imageUserPost {
+    width: 100%;
+}
+

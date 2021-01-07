@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap%27');
+
+*{
+    background-color: #eee;
+}
+
+form,.button, #register, h6, #login {
+    background: white;
+}
+
+
+.form-control {
+    background-color: #eee;
+}
+
+h6 {
+    margin-top: 7%;
+}
+
+#columnaDerecha{
+    margin-top: 7% ;
+    margin-right: 6%;
+    background: white;
+    padding: 5%;
+    
+}
+
+
+.button {
+    width: 100%;
+}
+
+#fotoInstagram {
+    margin-top: 14%;
+    margin-left: 56%;
+    
+}
+
+.fontIg {
+    width: 90%;
+
+}
+
+
